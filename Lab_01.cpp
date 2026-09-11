@@ -24,4 +24,4 @@ for(int i=1 ; i<5 ; i++){
 printf("THE LARGEST NO. IN THE ARRAY IS : %d ", largest); 
 printf("THE SMALLEST NO. IN THE ARRAY IS : %d ", smallest); 
 return 0; 
-}*/ 
+}
